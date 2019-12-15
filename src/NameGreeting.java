@@ -15,5 +15,6 @@ public class NameGreeting {
         } else {
             System.out.printf("Cześć %s!\n", name);
         }
+
     }
 }
